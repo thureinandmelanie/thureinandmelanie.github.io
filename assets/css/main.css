@@ -1113,7 +1113,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			left: 0;
-			width: 50%;
+			width: 100%;
 			height: 100%;
 			z-index: 2;
 		}
@@ -1186,7 +1186,7 @@ input, select, textarea {
 			position: absolute;
 			top: 0;
 			left: 0;
-			width: 50%;
+			width: 100%;
 			height: 100%;
 			opacity: 1;
 			z-index: 1;
